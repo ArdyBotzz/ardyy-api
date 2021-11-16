@@ -1,0 +1,28 @@
+{
+  "name": "ardyy-api",
+  "version": "1.0.0",
+  "description": "Ardyy Api Scraper",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArdyBotzz/ardyy-api.git"
+  },
+  "keywords": [
+    "ardyy-api",
+    "api-ardyy",
+    "scraper"
+  ],
+  "author": "LordArdy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArdyBotzz/ardyy-api/issues"
+  },
+  "homepage": "https://github.com/ArdyBotzz/ardyy-api#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
